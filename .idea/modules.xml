@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/musicRecomendationPredictionModel.iml" filepath="$PROJECT_DIR$/.idea/musicRecomendationPredictionModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TurtleMusicPredictor.iml" filepath="$PROJECT_DIR$/.idea/TurtleMusicPredictor.iml" />
     </modules>
   </component>
 </project>
